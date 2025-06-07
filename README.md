@@ -130,11 +130,3 @@ Contributions are welcome! If you'd like to contribute, please fork the reposito
 
 - The core model is built using [OpenAI's Whisper](https://github.com/openai/whisper).
 - Thanks to https://github.com/m-bain/whisperX for inspiration.
-
-## Contact
-
-For questions or suggestions, feel free to contact Rujul Khatavkar rujulsk@gmail.com.
-
----
-
-Happy Coding!
